@@ -1,0 +1,32 @@
+# Ignore node_modules and .env files
+node_modules/
+.env
+
+# Ignore operating system files
+.DS_Store
+.AppleDouble
+.LSOverride
+
+# Ignore IDE files
+.vscode/
+.idea/
+*.iml
+*.ipr
+*.iws
+
+# Ignore other files
+*.log
+*.tmp
+*.bak*.log
+*.tmp
+*.bak
+*.err
+*.out
+.env
+
+node_modules/
+
+
+.DS_Store
+.vscode/
+.idea/
